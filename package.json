@@ -1,0 +1,14 @@
+{
+  "name": "elegantune.com",
+  "version": "1.0.0",
+  "description": "Elegantune website",
+  "scripts": {
+    "start": "static public -c 1 -a 0.0.0.0 -p 8080"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "node-static": "^0.7.11"
+  },
+  "dependencies": {}
+}
